@@ -1,4 +1,4 @@
-test
+test 6
 
 java.exe : INFO : Arguments: [redexport] [-r] [DemoRepo] [-c] [RED export] [-m] [wsDVDemo] [-v] [20210716] [-o] 
 [C:\GitRepo3D\DemoTest\001\wsDVDemo20210716.xml] [-f]
